@@ -31,7 +31,7 @@ Each ASR rule contains one of three settings:
 - Block: Enable the ASR rule
 - Audit: Evaluate how the ASR rule would impact your organization if enabled
 
-To use ASR rules, you must have either a Windows 10 Enterprise E3 or E5 license. We recommend E5 licenses so you can take advantage of the advanced monitoring and reporting capabilities that are available in [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection) (Microsoft Defender ATP). Advanced monitoring and reporting capabilities aren't available with an E3 license, but you can develop your own monitoring and reporting tools to use in conjunction with ASR rules.
+To use ASR rules, you can have either a Windows 10 Professional, a Enterprise E3 or an E5 license. We recommend E5 licenses so you can take advantage of the advanced monitoring and reporting capabilities that are available in [Microsoft Defender Advanced Threat Protection](https://docs.microsoft.com/windows/security/threat-protection) (Microsoft Defender ATP). Advanced monitoring and reporting capabilities aren't available with an E3 license, but you can develop your own monitoring and reporting tools to use in conjunction with ASR rules.
 
 > [!TIP]
 > To learn more about Windows licensing, see [Windows 10 Licensing](https://www.microsoft.com/licensing/product-licensing/windows10?activetab=windows10-pivot:primaryr5) and get the [Volume Licensing guide for Windows 10](https://download.microsoft.com/download/2/D/1/2D14FE17-66C2-4D4C-AF73-E122930B60F6/Windows-10-Volume-Licensing-Guide.pdf).
