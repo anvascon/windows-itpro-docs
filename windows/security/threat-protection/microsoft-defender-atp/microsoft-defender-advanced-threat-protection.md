@@ -30,7 +30,7 @@ Microsoft Defender Advanced Threat Protection is an enterprise endpoint security
 
 Microsoft Defender ATP uses the following combination of technology built into Windows 10 and Microsoft's robust cloud service:
 
--   **Endpoint behavioral sensors**: Embedded in Windows 10, these sensors
+-   **Endpoint behavioral sensors**: Embedded in Windows 10, these kernel level sensors
     collect and process behavioral signals from the operating system and sends this sensor data to your private, isolated, cloud instance of Microsoft Defender ATP.
 
 
